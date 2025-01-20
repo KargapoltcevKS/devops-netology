@@ -1,5 +1,7 @@
 # devops-netology
 1 First line
+2 two line 
+
 
 **/.terraform/*              # Игнорировать все файлы в директории .terraform/
 *.tfstate                    # Игнорировать все файлы с расширением .tfstate
