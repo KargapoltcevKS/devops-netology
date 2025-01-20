@@ -1,7 +1,9 @@
 # devops-netology
+
 1 First line
-2 two line 
-3 3 line
+* 2 two line 
+* 3 3 line
+* 4 4 line
 
 
 **/.terraform/*              # Игнорировать все файлы в директории .terraform/
@@ -19,4 +21,4 @@ override.tf.json             # Игнорировать все файлы overri
 .terraformrc                 # Игнорировать все файлы с расширением terraformrc
 terraform.rc                 # Игнорировать все файлы terraform.rc
 
-THE AND
+* THE AND
