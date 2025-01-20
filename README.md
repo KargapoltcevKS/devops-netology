@@ -15,3 +15,5 @@ override.tf.json             # Игнорировать все файлы overri
 .terraform.tfstate.lock.info # Игнорировать все файлы c названиями terraform, tfstate, lock, info
 .terraformrc                 # Игнорировать все файлы с расширением terraformrc
 terraform.rc                 # Игнорировать все файлы terraform.rc
+
+THE AND
