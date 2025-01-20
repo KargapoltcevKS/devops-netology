@@ -3,8 +3,8 @@
 1 First line
 * 2 two line 
 * 3 3 line
-* 4 4 line
-
+* 4 4 linee
+* 5
 
 **/.terraform/*              # Игнорировать все файлы в директории .terraform/
 *.tfstate                    # Игнорировать все файлы с расширением .tfstate
@@ -22,3 +22,4 @@ override.tf.json             # Игнорировать все файлы overri
 terraform.rc                 # Игнорировать все файлы terraform.rc
 
 * THE AND
+1
