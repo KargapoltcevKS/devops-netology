@@ -1,6 +1,7 @@
 # devops-netology
 1 First line
 2 two line 
+3 3 line
 
 
 **/.terraform/*              # Игнорировать все файлы в директории .terraform/
