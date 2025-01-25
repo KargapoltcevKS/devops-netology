@@ -23,3 +23,4 @@ terraform.rc                 # Игнорировать все файлы terraf
 
 * THE AND
 1
+* 2
